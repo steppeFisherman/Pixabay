@@ -1,4 +1,4 @@
-package com.example.watercarrier
+package com.example.pixabay
 
 import org.junit.Test
 
