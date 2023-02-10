@@ -3,11 +3,13 @@
 
 Данное приложение скачивает картинки из сети (сортировка по категориям, проверка наличия интернета). Есть возможность установить выбранную картинку на рабочий стол(необходимо подключение ВПН). 
 ___
-![screenshot_1](https://user-images.githubusercontent.com/26350957/169659022-d6040605-9619-4fc4-9b03-3d6713f7ac39.png) &nbsp
-![image](https://user-images.githubusercontent.com/26350957/169658890-8e940f55-ff9b-4472-be88-197eb5243e87.png)
-![image](https://user-images.githubusercontent.com/26350957/169658911-1ad05e84-c147-43a8-ae04-037ad92f66cd.png) &nbsp
-![image](https://user-images.githubusercontent.com/26350957/169658912-d51b7e9f-afa0-4baa-a93a-2a554652303c.png)
+
+![main](https://user-images.githubusercontent.com/26350957/218127064-c8e5553b-b681-4f97-8b0f-ceb401ea0a28.png)
+![second](https://user-images.githubusercontent.com/26350957/218127181-69877a56-4f76-4fc8-aaea-ec07de4e7d2e.png)
+![third](https://user-images.githubusercontent.com/26350957/218127196-46db36fe-3a08-488f-b21f-7ef4d3e74b44.png)
+![wallpaper](https://user-images.githubusercontent.com/26350957/218127228-a272fea0-f285-42d8-b1b0-8aeeb68083e5.png)
+
 ___
 _Стэк:_
 
-__Retrofit, Hilt, Navigation Component, MVVM, LiveData, Kotlin Coroutines, ViewBinding__
+__Retrofit, Hilt, Navigation Component, MVVM, LiveData, Kotlin Coroutines, Glide, ViewBinding__
